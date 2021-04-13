@@ -109,7 +109,6 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
 .wrapper {
   width: 90%;
   margin: 0 auto;
@@ -118,6 +117,7 @@ body {
   box-shadow: 1px 1px 12px 0 rgba(0, 0, 0, 0.123456789);
 }
 
+/*
 .accordion {
   position: relative;
   width: 100%;
