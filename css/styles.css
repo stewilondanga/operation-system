@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -109,9 +114,6 @@
 }
 
 
-body {
-  font-family: "Lato", sans-serif;
-}
 * {
   box-sizing: border-box;
 }
