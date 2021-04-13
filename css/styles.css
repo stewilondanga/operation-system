@@ -211,11 +211,11 @@ tr td:last-child {
   width: 65%;
 }
 
-/*td {
+td {
   padding: 0.5em;
 }
 
-@media only screen and (max-width: 767px) {
+/*@media only screen and (max-width: 767px) {
   tr td:first-child {
     display: none;
   }
