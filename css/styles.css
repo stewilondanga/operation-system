@@ -207,10 +207,11 @@ tr td:first-child {
   width: 35%;
 }
 
-/*tr td:last-child {
+tr td:last-child {
   width: 65%;
 }
-td {
+
+/*td {
   padding: 0.5em;
 }
 
