@@ -224,7 +224,7 @@ td {
     display: block;
   }
 
-  /*tr td::before {
+  tr td::before {
     content: attr(data-label);
     display: inline-block;
     font-size: 80%;
@@ -234,7 +234,7 @@ td {
   }
 }
 
-
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
