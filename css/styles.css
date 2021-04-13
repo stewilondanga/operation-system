@@ -203,10 +203,11 @@ tr:hover {
   background-color: #f1f1f1;
 }
 
-/*tr td:first-child {
+tr td:first-child {
   width: 35%;
 }
-tr td:last-child {
+
+/*tr td:last-child {
   width: 65%;
 }
 td {
