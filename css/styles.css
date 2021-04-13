@@ -220,10 +220,11 @@ td {
     display: none;
   }
 
-  /*tr td span {
+  tr td span {
     display: block;
   }
-  tr td::before {
+
+  /*tr td::before {
     content: attr(data-label);
     display: inline-block;
     font-size: 80%;
