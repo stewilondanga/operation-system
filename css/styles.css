@@ -234,7 +234,6 @@ td {
   }
 }
 
-/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
@@ -246,6 +245,7 @@ td {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
