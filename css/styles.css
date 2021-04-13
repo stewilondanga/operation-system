@@ -180,7 +180,7 @@ body {
   max-height: 100em;
 }
 
-/*.accordion .table-container {
+.accordion .table-container {
   overflow: hidden;
   max-height: 0px;
   transition: max-height 0.3s ease-in-out;
@@ -188,7 +188,7 @@ body {
   border-bottom-right-radius: 10px;
 }
 
-
+/*
 table {
   width: 100%;
   border-collapse: collapse;
