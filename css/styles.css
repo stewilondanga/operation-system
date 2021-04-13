@@ -117,7 +117,6 @@ body {
   box-shadow: 1px 1px 12px 0 rgba(0, 0, 0, 0.123456789);
 }
 
-/*
 .accordion {
   position: relative;
   width: 100%;
@@ -126,6 +125,7 @@ body {
   perspective-origin: top;
 }
 
+/*
 .accordion input {
   position: absolute;
   z-index: -1;
