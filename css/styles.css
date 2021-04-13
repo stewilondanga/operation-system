@@ -125,13 +125,13 @@ body {
   perspective-origin: top;
 }
 
-/*
 .accordion input {
   position: absolute;
   z-index: -1;
   opacity: 0;
 }
 
+/*
 .accordion label {
   cursor: pointer;
   font-weight: bold;
