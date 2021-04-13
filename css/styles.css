@@ -131,7 +131,6 @@ body {
   opacity: 0;
 }
 
-/*
 .accordion label {
   cursor: pointer;
   font-weight: bold;
@@ -145,6 +144,7 @@ body {
   position: relative;
 }
 
+/*
 .accordion label:hover {
   background-color: #dc0621;
 }
